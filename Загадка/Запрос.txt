@@ -1,0 +1,6 @@
+Use Загадка
+Go
+Select count  (Всего_MB) from Таблица
+Where Всего_MB > 167
+Select sum (Всего_MB) from Таблица
+Where Всего_MB <= 167
